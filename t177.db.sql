@@ -1,1 +1,0 @@
-SELECT min(due_date) AS "Earliest Assignment" From assignments
